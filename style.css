@@ -1,0 +1,71 @@
+h1 {
+	font-family: Arial, serif;
+	width: 500px;
+	margin: auto;
+}
+
+h2 {
+	font-family: Arial, serif;
+}
+
+section {
+	border: 2px solid grey;
+	margin-bottom: 5px;
+	padding-left: 10px;
+}
+
+section li {
+	list-style-type: square;
+}
+
+section h2 {
+	background-color: #f0f0f0;
+}
+
+a {
+	text-decoration: none;
+}
+
+#wrapper {
+	width: 70%;
+	margin: auto;
+	margin-top: 60px;
+}
+
+.date {
+	display: inline-block;
+	float: right;
+	padding-right: 15px;
+}
+
+
+
+.heading {
+	float: left;
+	display: inline-block;
+}
+
+
+ul {
+	clear: both;
+}
+
+#contact{
+	position: fixed;
+	width: 100%;
+	 background-color: #f0f0f0;
+	 padding: none;
+	 margin-top: -60px;
+	 margin-left: -9px;
+	 border: none;
+}
+
+#contact li {
+	display: inline;
+	margin: 5px;
+}
+
+.title{
+	clear: both;
+
+}
